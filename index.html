@@ -1,12 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <title>Javascript Game</title>
-    <meta charset="UTF-8">
+  <head>
+    <title>PONG</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- http://proger.i-forge.net/The_smallest_transparent_pixel/ -->
+    <link rel="stylesheet" href="display.css" />
     <link rel="icon" href="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=">
-</head>
-<body>
+  </head>
 
-</body>
+  <body>
+    <div class="board">
+      <div class="ball">
+        <div class="ball_effect"></div>
+      </div>
+      <div class="power"></div>
+      <div class="paddle_1 paddle"></div>
+      <div class="paddle_2 paddle"></div>
+      <h1 class="player_1_score">0</h1>
+      <h1 class="player_2_score">0</h1>
+      <h1 class="message">Press Enter to Start</h1>
+    </div>
+
+    <script src="game.js" defer></script>
+  </body>
 </html>
