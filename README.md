@@ -2,9 +2,11 @@
 
 ### About the Project:
 
-- The purpose of this project is to create a modern version of the classic Pong game, adding power-ups and debuffs to make the gameplay more dynamic and challenging. With customizable graphics and sound effects, this game aims to provide a fun and engaging experience for players of all ages and skill levels.
+- This project seeks to bring the classic Pong game to modern audiences using cutting-edge web technologies like JavaScript, HTML, and CSS.
 
-- This project aims to recreate the retro arcade game Pong using modern web technologies, such as JavaScript, HTML, and CSS. By incorporating power-ups and debuffs, the game becomes more than just a simple back-and-forth between two paddles and a ball, keeping players on their toes and providing a fresh take on a classic game.
+- To enhance the gameplay, the project will incorporate various power-ups and debuffs to add an extra layer of excitement and challenge to the game. Debuffs such as ball speed up and paddle smaller will increase the difficulty level, while power-ups such as ball size up and paddle larger will make the game easier to play. These power-ups and debuffs will be randomly generated throughout the game to keep the player on their toes and ensure a fresh experience with each playthrough.
+
+- With its mix of classic gameplay and modern twists, this project will appeal to both retro gaming enthusiasts and casual gamers alike. By using JavaScript, HTML, and CSS, this project will deliver a seamless and intuitive gaming experience on any modern web browser.
 
 ### Used technologies:
 1. [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
