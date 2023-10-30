@@ -23,4 +23,7 @@
 - Clone the [Repo](https://github.com/CodecoolGlobal/freestyle-javascript-game.git).
 - Run game.html or run.html
 
+### Media
+You cand find the game published [here](https://thenia13.itch.io/powerpong)
+
 ![printScreen](printScreen.jpg)
