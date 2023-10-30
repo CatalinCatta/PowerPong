@@ -279,20 +279,24 @@ function initGame() {
 
     if (gameState === "play") {
       if (e.key === "w") {
+        e.preventDefault();
         moveUpDown(paddle_1, -1);
         paddle_1_coord = paddle_1.getBoundingClientRect();
       }
 
       if (e.key === "s") {
+        e.preventDefault();
         moveUpDown(paddle_1, 1);
         paddle_1_coord = paddle_1.getBoundingClientRect();
       }
 
       if (e.key === "ArrowUp") {
+        e.preventDefault();
         moveUpDown(paddle_2, -1);
         paddle_2_coord = paddle_2.getBoundingClientRect();
       }
       if (e.key === "ArrowDown") {
+        e.preventDefault();
         moveUpDown(paddle_2, 1);
         paddle_2_coord = paddle_2.getBoundingClientRect();
       }

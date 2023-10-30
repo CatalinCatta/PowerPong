@@ -19,6 +19,6 @@
 
 ### How to Run the Project?
 - Clone the [Repo](https://github.com/CodecoolGlobal/freestyle-javascript-game.git).
-- Run game.html
+- Run game.html or run.html
 
 ![printScreen](printScreen.jpg)
