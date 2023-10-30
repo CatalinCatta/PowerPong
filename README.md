@@ -1,4 +1,4 @@
-## freestyle-javascript-game
+## PowerPong
 
 ### About the Project:
 
